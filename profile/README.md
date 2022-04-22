@@ -28,7 +28,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Goobwabber&repo=MultiQuestensions&theme=nord&show_owner=true" alt="MultiQuestensions">
 </a>
 
-[![MultiplayerCore.Quest](https://github-readme-stats.vercel.app/api/pin/?username=EnderdracheLP&repo=MultiplayerCore.Quest&theme=nord)](/../../../BeatSaberServerBrowserQuest)
+[![MultiplayerCore.Quest](https://github-readme-stats.vercel.app/api/pin/?username=EnderdracheLP&repo=MultiplayerCore.Quest&theme=nord)](/../../../MultiplayerCore.QUest)
 <!--
 [![SongDownloader](https://github-readme-stats.vercel.app/api/pin/?username=darknight1050&repo=SongDownloader&show_owner=true&theme=nord)](https://github.com/darknight1050/SongDownloader)
 
