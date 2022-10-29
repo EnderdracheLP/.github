@@ -47,7 +47,7 @@ body:
     multiple: true
     options:
       - Quest 1
-      - QUest 2
+      - Quest 2
       - Quest Pro
     description: |
       If the feature request relates to a specific devices functions, you can select one here
