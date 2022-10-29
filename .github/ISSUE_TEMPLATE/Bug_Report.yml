@@ -2,6 +2,8 @@ name: "Bug report 🐛"
 description: Report issues, errors or unexpected behavior
 title: "[Bug]: "
 labels: [bug]
+assignees:
+  - michael-r-elp
 body:
 - type: markdown
   attributes:
