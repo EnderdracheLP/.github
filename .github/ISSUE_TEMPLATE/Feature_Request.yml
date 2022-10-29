@@ -50,9 +50,7 @@ body:
       - QUest 2
       - Quest Pro
     description: |
-      If the feature request relates 
-      to a specific devices functions,
-      you can select one here
+      If the feature request relates to a specific devices functions, you can select one here
   validations:
     required: false
     
