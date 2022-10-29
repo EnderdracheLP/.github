@@ -40,7 +40,7 @@ body:
     required: true
  
 - type: dropdown
-  id: browsers
+  id: device
   attributes:
     label: Device
     multiple: false
@@ -52,7 +52,7 @@ body:
     description: |
       Which device you run the mod on
   validations:
-    required: false
+    required: true
 
 - type: input
   attributes:
