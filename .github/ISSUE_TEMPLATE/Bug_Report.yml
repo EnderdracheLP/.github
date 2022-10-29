@@ -48,7 +48,7 @@ body:
     multiple: false
     options:
       - Quest 1
-      - QUest 2
+      - Quest 2
       - Quest Pro
       - Unknown/Not Listed
     description: |
