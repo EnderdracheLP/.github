@@ -74,6 +74,13 @@ body:
   validations:
     required: true
     
+- type: textarea
+  attributes:
+    label: Additional context
+    description: Add any other context about the problem here.
+  validations:
+    required: false
+    
 - type: checkboxes
   id: terms
   attributes:
