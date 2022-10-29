@@ -1,0 +1,82 @@
+name: "Bug report 🐛"
+description: Report issues, errors or unexpected behavior
+title: "[Bug]: "
+labels: [bug]
+body:
+- type: markdown
+  attributes:
+    value: |
+      Please make sure to search for existing issues before making a new one!
+
+- type: textarea
+  attributes:
+    label: Describe the bug
+    placeholder: "Thing 'x' isn't working when I do 'y', etc."
+    description: |
+      A clear and concise description of what the bug is.
+  validations:
+    required: true
+
+- type: textarea
+  attributes:
+    label: Steps to reproduce
+    placeholder: Steps to reproduce the behavior.
+  validations:
+    required: true
+
+- type: textarea
+  attributes:
+    label: Expected Behavior
+    description: If applicable, add screenshots to help explain your problem.
+    placeholder: What were you expecting?
+  validations:
+    required: false
+
+- type: textarea
+  attributes:
+    label: Actual Behavior
+    placeholder: What happened instead?
+  validations:
+    required: true
+ 
+- type: dropdown
+  id: browsers
+  attributes:
+    label: Device
+    multiple: false
+    options:
+      - Quest 1
+      - QUest 2
+      - Quest Pro
+      - Unknown/Not Listed
+    description: |
+      Which device you run the mod on
+  validations:
+    required: false
+
+- type: input
+  attributes:
+    label: Game Version
+    placeholder: "1.25.1"
+    description: |
+      The version of the game you were running
+  validations:
+    required: true
+    
+- type: input
+  attributes:
+    label: Mod Version
+    placeholder: "0.1.0"
+    description: |
+      The version of the mod you were using
+  validations:
+    required: true
+    
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/EnderdracheLP/.github/blob/main/CODE_OF_CONDUCT.md)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
