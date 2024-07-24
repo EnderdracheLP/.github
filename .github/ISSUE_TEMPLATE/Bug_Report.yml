@@ -50,6 +50,7 @@ body:
       - Quest 1
       - Quest 2
       - Quest Pro
+      - Quest 3
       - Unknown/Not Listed
     description: |
       Which device you run the mod on
