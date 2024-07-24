@@ -60,7 +60,7 @@ body:
 - type: input
   attributes:
     label: Game Version
-    placeholder: "1.25.1"
+    placeholder: "1.37.1"
     description: |
       The version of the game you were running
   validations:
